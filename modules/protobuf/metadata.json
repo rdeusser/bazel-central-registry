@@ -3,7 +3,8 @@
     "maintainers": [],
     "versions": [
         "3.19.0",
-        "3.19.2"
+        "3.19.2",
+        "171a6b1155fd35382e2b3deb54f2671c74a9639f"
     ],
     "yanked_versions": {}
 }
