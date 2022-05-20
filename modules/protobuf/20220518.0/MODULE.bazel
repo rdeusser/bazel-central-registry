@@ -1,6 +1,6 @@
 module(
     name = "protobuf",
-    version = "171a6b1155fd35382e2b3deb54f2671c74a9639f",
+    version = "20220518.0",
     compatibility_level = 1,
 )
 bazel_dep(name = "bazel_skylib", version = "1.0.3")
